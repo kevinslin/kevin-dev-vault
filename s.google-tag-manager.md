@@ -2,7 +2,7 @@
 id: dc6f22ce-6992-44dc-a1d9-1d21c1dea388
 title: Google Tag Manager
 desc: ''
-updated: 1610472018645
+updated: 1617640358566
 created: 1610471781310
 ---
 
@@ -44,4 +44,4 @@ Other Perks
 - GTM has a preview and debug mode so you can see what’s working and what’s not before you make anything live. It shows you what tags are firing on the page.
 
 
-[^1]: https://www.orbitmedia.com/blog/what-is-google-tag-manager-and-why-use-it/
+- [^1]: https://www.orbitmedia.com/blog/what-is-google-tag-manager-and-why-use-it/
