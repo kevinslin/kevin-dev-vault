@@ -2,14 +2,14 @@
 id: aef3d2e7-9291-4950-b24b-4660d60a86b3
 title: Concepts
 desc: ''
-updated: 1609996895808
+updated: 1621291145784
 created: 1609996768710
 ---
 
 
 ### Events 
 
--represent actions users have taken [^1]
+- represent actions users have taken [^1]
 
 ```
 amplitude.getInstance().logEvent(‘play song’);
