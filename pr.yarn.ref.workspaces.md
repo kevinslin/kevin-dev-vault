@@ -2,7 +2,7 @@
 id: 2a1723c7-d943-4134-98fb-bb403f123d27
 title: Workspaces
 desc: ''
-updated: 1621823844912
+updated: 1635702376295
 created: 1613284726208
 ---
 
@@ -45,18 +45,6 @@ created: 1613284726208
 Yarn’s workspaces are the low-level primitives that tools like Lerna can (and do!) use. They will never try to support the high-level feature that Lerna offers
 
 
-### no hoisting
-- add a `nohoisting` section to workspaces
-
-- NOTE: adding a package to `nohoist` won't remove existing installed packages from `node_modules`
-```yml
-workspaces: {
-  packages: [],
-  nohoist: [],
-}
-
-```
-
 ## Cook
 
 ### Focused workspace
@@ -70,5 +58,4 @@ workspaces: {
 
 ### ignore workspaces
 - https://github.com/yarnpkg/yarn/issues/4099
-- [Yarn workspaces: nohoist exclude](https://stackoverflow.com/questions/62310476/yarn-workspaces-nohoist-exclude)
 - [yarn-isolate-workspace](https://www.npmjs.com/package/yarn-isolate-workspace)
