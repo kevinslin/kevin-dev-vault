@@ -2,14 +2,13 @@
 id: de57be03-8806-4cc1-b799-8e57b38c233e
 title: Lifecycle
 desc: ''
-updated: 1633638710538
+updated: 1641527514304
 created: 1621292264400
 ---
 
 ## Summary
 - source: [^1]
 <!-- -->
-
 
 
 - new user: is one who has logged the event you specified in Step One above for the first time. 
